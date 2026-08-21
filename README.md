@@ -1,2 +1,3 @@
-# valiev-mobile-preview
-Temporary mobile-layout preview for valiev.dev PR #1. Safe to delete after review.
+Temporary mobile-layout preview for https://github.com/azvaliev/valiev.dev/pull/1
+
+Safe to delete after review. Not production.
